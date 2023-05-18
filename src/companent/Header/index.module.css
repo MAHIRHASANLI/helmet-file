@@ -1,0 +1,19 @@
+.navbar{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(242,5,37,1) 0%, rgba(126,3,66,1) 54%, rgba(0,0,0,1) 100%);
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn{
+    background-color:rgb(222,4,41)
+}
+@media only screen and (min-width: 500px) {
+    .hamburger{
+        display:none;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .links{
+       
+        display:none;
+    }
+  }

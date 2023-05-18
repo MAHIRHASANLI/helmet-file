@@ -1,0 +1,16 @@
+body{
+  margin:0;
+}
+.linkler{
+  width: 115px;
+  margin:200px auto;
+  border:1px solid black;
+  color:white;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(242,5,37,1) 0%, rgba(126,3,66,1) 54%, rgba(0,0,0,1) 100%);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.footer{
+  width: 70px;
+  margin:0 auto;
+}
